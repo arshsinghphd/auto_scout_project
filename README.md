@@ -6,15 +6,15 @@ The agenda is:
 1. Data exploration and cleaning
 2. Missing data handling - imputation
 3. Modeling for prediction of prices using various models -
-   a. OLS,
-   b. Ridge,
-   c. Lasso,
-   d. linearSVM,
-   e. SVM,
-   f. Random Forest,
-   g. Gradient Boost,
-   h. XGB,
-   i. light GBM, and
-   j. catBoost.
+   OLS,
+   Ridge,
+   Lasso,
+   linearSVM,
+   SVM,
+   Random Forest,
+   Gradient Boost,
+   XGB,
+   light GBM, and
+   catBoost.
 5. Models selection
 6. Features selection (final model with only upto 12 features)
