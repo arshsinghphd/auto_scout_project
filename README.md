@@ -6,14 +6,23 @@ The agenda is:
 1. Data exploration and cleaning, missing data handling - imputation, and handling outliers.
 2. Modeling for prediction of prices using various models -
    OLS,
+   
    Ridge,
+   
    Lasso,
+   
    linearSVM,
+   
    SVM,
+   
    Random Forest,
+   
    Gradient Boost,
+   
    XGB,
+   
    light GBM, and
+   
    catBoost.
-3. Models selection
-4. Features selection (final model with only upto 12 features)
+4. Models selection
+5. Features selection (final model with only upto 12 features)
