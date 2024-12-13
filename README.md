@@ -5,6 +5,7 @@ Auto Scout data used for this project, were scraped from the on-line car trading
 The agenda is:
 1. Data exploration and cleaning, missing data handling - imputation, and handling outliers.
 2. Modeling for prediction of prices using various models -
+
    OLS,
    
    Ridge,
